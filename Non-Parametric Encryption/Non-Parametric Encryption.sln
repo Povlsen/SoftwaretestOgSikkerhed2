@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Non-Parametric Encryption", "Non-Parametric Encryption\Non-Parametric Encryption.csproj", "{6F619859-D89B-4C18-82D2-024FFD7DBF08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F619859-D89B-4C18-82D2-024FFD7DBF08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F619859-D89B-4C18-82D2-024FFD7DBF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F619859-D89B-4C18-82D2-024FFD7DBF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F619859-D89B-4C18-82D2-024FFD7DBF08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F3D9553-5B86-4247-A514-4BABFA5340BF}
+	EndGlobalSection
+EndGlobal
