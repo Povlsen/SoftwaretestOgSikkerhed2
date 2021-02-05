@@ -77,7 +77,5 @@ namespace Guide0Client
                 }
             }
         }
-
-        
     }
 }
